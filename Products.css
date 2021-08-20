@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(255, 166, 0);
+}
+
+img {
+    height: fit-content;
+    width: 50vw;
+}
+
+.container {
+    position: static;
+    top: 100px;
+    height: 100vh;
+    width: 40vw;
+}
+
+.Card {
+    width: 10rem;
+    height: 20%;
+    display: flex;
+    margin: auto;
+}
+
+img {
+    width: 100%;
+    height: fit-content;
+}
